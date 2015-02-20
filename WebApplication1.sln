@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayerX", "DataLayerX\DataLayerX.csproj", "{766CF859-7E87-4A25-817E-122684312176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayerX_Tests", "DataLayerX_Tests\DataLayerX_Tests.csproj", "{49D26B26-586D-467C-AA64-87FA55D87E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{766CF859-7E87-4A25-817E-122684312176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766CF859-7E87-4A25-817E-122684312176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766CF859-7E87-4A25-817E-122684312176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766CF859-7E87-4A25-817E-122684312176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D26B26-586D-467C-AA64-87FA55D87E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D26B26-586D-467C-AA64-87FA55D87E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D26B26-586D-467C-AA64-87FA55D87E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D26B26-586D-467C-AA64-87FA55D87E63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>#
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="DataLayerX"
+                   namespace="DataLayerX.Domain">
+  <class name="EmailAddress">
+    <id name="ID">
+      <generator class="int"/>
+    </id>
+    <property name="Email"></property>
+    <property name="PersonId"></property>
+  </class>
+</hibernate-mapping>
